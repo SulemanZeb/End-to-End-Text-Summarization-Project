@@ -1,5 +1,28 @@
 # End-to-End-Text-Summarization-Project
 
+# How to run?
+### STEPS:
+
+Clone the repository
+
+```bash
+Project repo: https://github.com/SulemanZeb/End-to-End-Text-Summarization-Project.git
+```
+### STEP 01- Create a conda environment after opening the repository
+
+```bash
+conda create -n nlp python=3.10 -y
+```
+
+```bash
+conda activate nlp
+```
+
+### STEP 02- install the requirements
+```bash
+pip install -r requirements.txt
+```
+
 ## Workflows
 
 1. Update config.yaml
